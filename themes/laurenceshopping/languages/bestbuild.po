@@ -1,0 +1,4371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bestbuild\n"
+"POT-Creation-Date: 2015-06-15 17:54+0500\n"
+"PO-Revision-Date: 2015-06-15 17:55+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/marchello/WEB/www/construct.stm/wp-content/themes\n"
+"X-Poedit-SearchPath-0: bestbuild\n"
+
+#: bestbuild/404.php:4
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: bestbuild/404.php:5
+msgid "GO BACK TO HOMEPAGE"
+msgstr ""
+
+#: bestbuild/comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: bestbuild/comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: bestbuild/comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: bestbuild/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: bestbuild/functions.php:45
+msgid "Top Menu"
+msgstr ""
+
+#: bestbuild/functions.php:51
+msgid "Default Sidebar"
+msgstr ""
+
+#: bestbuild/functions.php:63
+#: bestbuild/inc/redux-framework/options-init.php:1379
+msgid "Footer"
+msgstr ""
+
+#: bestbuild/functions.php:75
+msgid "Shop Sidebar"
+msgstr ""
+
+#: bestbuild/index.php:75
+msgid "No result has been found. Please check for correctness."
+msgstr ""
+
+#: bestbuild/searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: bestbuild/inc/extras.php:8
+msgid "Home"
+msgstr ""
+
+#: bestbuild/inc/extras.php:29
+#, php-format
+msgid "Archive by category \"%s\""
+msgstr ""
+
+#: bestbuild/inc/extras.php:31
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: bestbuild/inc/extras.php:120
+#, php-format
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: bestbuild/inc/extras.php:125
+#, php-format
+msgid "Articles posted by %s"
+msgstr ""
+
+#: bestbuild/inc/extras.php:128
+msgid "Error 404"
+msgstr ""
+
+#: bestbuild/inc/extras.php:135 bestbuild/partials/content-page.php:25
+#: bestbuild/partials/content.php:15
+msgid "Page"
+msgstr ""
+
+#: bestbuild/inc/extras.php:186
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: bestbuild/inc/extras.php:188
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: bestbuild/inc/extras.php:189
+#: bestbuild/woocommerce/myaccount/my-address.php:97
+msgid "Edit"
+msgstr ""
+
+#: bestbuild/inc/extras.php:195
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: bestbuild/inc/extras.php:218 bestbuild/inc/visual_composer.php:413
+#: bestbuild/inc/visual_composer.php:965
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:582
+#: bestbuild/woocommerce/single-product-reviews.php:54
+msgid "Name"
+msgstr ""
+
+#: bestbuild/inc/extras.php:223
+msgid "E-mail"
+msgstr ""
+
+#: bestbuild/inc/extras.php:228
+msgid "Website"
+msgstr ""
+
+#: bestbuild/inc/extras.php:386
+msgid "Page Options"
+msgstr ""
+
+#: bestbuild/inc/extras.php:389
+msgid "Page Header"
+msgstr ""
+
+#: bestbuild/inc/extras.php:393
+msgid "Transparent Header"
+msgstr ""
+
+#: bestbuild/inc/extras.php:397
+msgid "Page Background"
+msgstr ""
+
+#: bestbuild/inc/extras.php:401
+#: bestbuild/inc/redux-framework/options-init.php:162
+#: bestbuild/inc/redux-framework/options-init.php:1144
+#: bestbuild/inc/redux-framework/options-init.php:1217
+#: bestbuild/partials/frontend_customizer.php:23
+msgid "Background Image"
+msgstr ""
+
+#: bestbuild/inc/extras.php:406 bestbuild/inc/extras.php:465
+#: bestbuild/inc/visual_composer.php:938
+#: bestbuild/inc/redux-framework/options-init.php:1149
+#: bestbuild/inc/redux-framework/options-init.php:1222
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: bestbuild/inc/extras.php:411 bestbuild/inc/extras.php:470
+#: bestbuild/inc/redux-framework/options-init.php:1154
+#: bestbuild/inc/redux-framework/options-init.php:1227
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: bestbuild/inc/extras.php:414 bestbuild/inc/extras.php:473
+#: bestbuild/inc/redux-framework/options-init.php:1157
+#: bestbuild/inc/redux-framework/options-init.php:1230
+msgid "Repeat"
+msgstr ""
+
+#: bestbuild/inc/extras.php:415 bestbuild/inc/extras.php:474
+#: bestbuild/inc/redux-framework/options-init.php:1158
+#: bestbuild/inc/redux-framework/options-init.php:1231
+msgid "No Repeat"
+msgstr ""
+
+#: bestbuild/inc/extras.php:416 bestbuild/inc/extras.php:475
+#: bestbuild/inc/redux-framework/options-init.php:1159
+#: bestbuild/inc/redux-framework/options-init.php:1232
+msgid "Repeat-X"
+msgstr ""
+
+#: bestbuild/inc/extras.php:417 bestbuild/inc/extras.php:476
+#: bestbuild/inc/redux-framework/options-init.php:1160
+#: bestbuild/inc/redux-framework/options-init.php:1233
+msgid "Repeat-Y"
+msgstr ""
+
+#: bestbuild/inc/extras.php:422
+msgid "Title Box"
+msgstr ""
+
+#: bestbuild/inc/extras.php:426 bestbuild/inc/visual_composer.php:254
+#: bestbuild/inc/visual_composer.php:305 bestbuild/inc/visual_composer.php:331
+#: bestbuild/inc/visual_composer.php:379 bestbuild/inc/visual_composer.php:487
+#: bestbuild/inc/visual_composer.php:528 bestbuild/inc/visual_composer.php:549
+#: bestbuild/inc/visual_composer.php:591 bestbuild/inc/visual_composer.php:714
+#: bestbuild/inc/visual_composer.php:814
+#: bestbuild/inc/visual_composer.php:1041
+#: bestbuild/inc/visual_composer.php:1150
+#: bestbuild/inc/redux-framework/options-init.php:1177
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:145
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: bestbuild/inc/extras.php:429 bestbuild/inc/extras.php:498
+#: bestbuild/inc/visual_composer.php:796 bestbuild/inc/visual_composer.php:879
+#: bestbuild/inc/redux-framework/options-init.php:1180
+#: bestbuild/inc/redux-framework/options-init.php:1275
+msgid "Show"
+msgstr ""
+
+#: bestbuild/inc/extras.php:430 bestbuild/inc/extras.php:499
+#: bestbuild/inc/redux-framework/options-init.php:1181
+#: bestbuild/inc/redux-framework/options-init.php:1276
+msgid "Hide"
+msgstr ""
+
+#: bestbuild/inc/extras.php:435
+#: bestbuild/inc/redux-framework/options-init.php:1187
+msgid "Sub Title"
+msgstr ""
+
+#: bestbuild/inc/extras.php:440
+#: bestbuild/inc/redux-framework/options-init.php:1193
+msgid "Background Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:445 bestbuild/inc/extras.php:528
+#: bestbuild/inc/redux-framework/options-init.php:1199
+#: bestbuild/inc/redux-framework/options-init.php:1317
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:450
+#: bestbuild/inc/redux-framework/options-init.php:1205
+msgid "Line Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:455
+msgid "Sub Title Font Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:460
+msgid "Custom Background Image"
+msgstr ""
+
+#: bestbuild/inc/extras.php:481
+#: bestbuild/inc/redux-framework/options-init.php:1239
+msgid "Overlay"
+msgstr ""
+
+#: bestbuild/inc/extras.php:486
+#: bestbuild/inc/redux-framework/options-init.php:1250
+msgid "Small"
+msgstr ""
+
+#: bestbuild/inc/extras.php:491 bestbuild/inc/extras.php:495
+#: bestbuild/inc/redux-framework/options-init.php:1272
+msgid "Breadcrumbs"
+msgstr ""
+
+#: bestbuild/inc/extras.php:504
+#: bestbuild/inc/redux-framework/options-init.php:1283
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:509
+msgid "Title Box Button"
+msgstr ""
+
+#: bestbuild/inc/extras.php:513
+#: bestbuild/inc/redux-framework/options-init.php:1299
+msgid "Button Text"
+msgstr ""
+
+#: bestbuild/inc/extras.php:518
+#: bestbuild/inc/redux-framework/options-init.php:1304
+msgid "Button URL"
+msgstr ""
+
+#: bestbuild/inc/extras.php:523 bestbuild/inc/extras.php:552
+#: bestbuild/inc/redux-framework/options-init.php:1310
+#: bestbuild/inc/redux-framework/options-init.php:1360
+msgid "Border Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:533
+#: bestbuild/inc/redux-framework/options-init.php:1324
+msgid "Font Color (hover)"
+msgstr ""
+
+#: bestbuild/inc/extras.php:538
+#: bestbuild/inc/redux-framework/options-init.php:1331
+msgid "Arrow Color"
+msgstr ""
+
+#: bestbuild/inc/extras.php:543
+#: bestbuild/inc/redux-framework/options-init.php:1348
+msgid "Prev/Next Buttons"
+msgstr ""
+
+#: bestbuild/inc/extras.php:547 bestbuild/inc/visual_composer.php:808
+#: bestbuild/inc/visual_composer.php:859 bestbuild/inc/visual_composer.php:869
+#: bestbuild/inc/redux-framework/options-init.php:1353
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1712
+msgid "Enable"
+msgstr ""
+
+#: bestbuild/inc/extras.php:557
+msgid "Arrow Color (hover)"
+msgstr ""
+
+#: bestbuild/inc/extras.php:564
+msgid "Testimonial Info"
+msgstr ""
+
+#: bestbuild/inc/extras.php:567
+msgid "Company"
+msgstr ""
+
+#: bestbuild/inc/extras.php:571
+msgid "Profession"
+msgstr ""
+
+#: bestbuild/inc/extras.php:580 bestbuild/vc_templates/stm_vacancies.php:18
+msgid "Location"
+msgstr ""
+
+#: bestbuild/inc/extras.php:584 bestbuild/vc_templates/stm_vacancies.php:19
+msgid "Department"
+msgstr ""
+
+#: bestbuild/inc/extras.php:588
+msgid "Job Type"
+msgstr ""
+
+#: bestbuild/inc/extras.php:592
+msgid "Education"
+msgstr ""
+
+#: bestbuild/inc/extras.php:596
+msgid "Compensation"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:80
+msgid "Gallery type"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:83
+msgid "Image grid"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:84
+msgid "Slick slider"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:85
+msgid "Slick slider 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:90
+msgid "Thumbnail size"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:99 bestbuild/inc/visual_composer.php:127
+#: bestbuild/inc/visual_composer.php:156 bestbuild/inc/visual_composer.php:269
+#: bestbuild/inc/visual_composer.php:310 bestbuild/inc/visual_composer.php:349
+#: bestbuild/inc/visual_composer.php:364 bestbuild/inc/visual_composer.php:471
+#: bestbuild/inc/visual_composer.php:512 bestbuild/inc/visual_composer.php:533
+#: bestbuild/inc/visual_composer.php:575 bestbuild/inc/visual_composer.php:645
+#: bestbuild/inc/visual_composer.php:698 bestbuild/inc/visual_composer.php:751
+#: bestbuild/inc/visual_composer.php:772 bestbuild/inc/visual_composer.php:926
+#: bestbuild/inc/visual_composer.php:1001
+#: bestbuild/inc/visual_composer.php:1015
+#: bestbuild/inc/visual_composer.php:1028
+#: bestbuild/inc/visual_composer.php:1056
+#: bestbuild/inc/visual_composer.php:1070
+#: bestbuild/inc/visual_composer.php:1083
+#: bestbuild/inc/visual_composer.php:1110
+#: bestbuild/inc/visual_composer.php:1124
+#: bestbuild/inc/visual_composer.php:1137
+#: bestbuild/inc/visual_composer.php:1195
+msgid "Css"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:101 bestbuild/inc/visual_composer.php:129
+#: bestbuild/inc/visual_composer.php:158 bestbuild/inc/visual_composer.php:271
+#: bestbuild/inc/visual_composer.php:312 bestbuild/inc/visual_composer.php:473
+#: bestbuild/inc/visual_composer.php:514 bestbuild/inc/visual_composer.php:535
+#: bestbuild/inc/visual_composer.php:577 bestbuild/inc/visual_composer.php:647
+#: bestbuild/inc/visual_composer.php:700 bestbuild/inc/visual_composer.php:753
+#: bestbuild/inc/visual_composer.php:774 bestbuild/inc/visual_composer.php:928
+#: bestbuild/inc/visual_composer.php:934 bestbuild/inc/visual_composer.php:940
+#: bestbuild/inc/visual_composer.php:946
+#: bestbuild/inc/visual_composer.php:1003
+#: bestbuild/inc/visual_composer.php:1058
+#: bestbuild/inc/visual_composer.php:1112
+#: bestbuild/inc/visual_composer.php:1197
+msgid "Design options"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:108
+msgid "Responsiveness"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:110
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:111
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:118
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:121
+msgid "Type 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:122
+msgid "Type 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:136
+msgid "Iframe"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:142
+msgid "Preview Image"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:147 bestbuild/inc/visual_composer.php:389
+#: bestbuild/inc/visual_composer.php:423 bestbuild/inc/visual_composer.php:850
+#: bestbuild/inc/visual_composer.php:975
+msgid "Image Size"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:149 bestbuild/inc/visual_composer.php:391
+#: bestbuild/inc/visual_composer.php:425 bestbuild/inc/visual_composer.php:852
+#: bestbuild/inc/visual_composer.php:977
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:165 bestbuild/inc/visual_composer.php:400
+#: bestbuild/inc/visual_composer.php:564 bestbuild/inc/visual_composer.php:660
+msgid "Link"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:174
+msgid "Gap"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:177
+msgid "0px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:178
+msgid "1px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:179
+msgid "2px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:180
+msgid "3px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:181
+msgid "4px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:182
+msgid "5px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:183
+msgid "10px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:184
+msgid "15px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:185
+msgid "20px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:186
+msgid "25px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:187
+msgid "30px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:188
+msgid "35px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:189
+msgid "40px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:190
+msgid "45px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:191
+msgid "50px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:192
+msgid "55px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:193
+msgid "60px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:196
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:204
+msgid "Stretch"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:207
+#: bestbuild/inc/redux-framework/options-init.php:1244
+#: bestbuild/inc/redux-framework/options-init.php:1255
+msgid "Yes"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:237
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:125
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:246
+msgid "Project Details"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:250 bestbuild/inc/visual_composer.php:281
+#: bestbuild/inc/visual_composer.php:301 bestbuild/inc/visual_composer.php:322
+#: bestbuild/inc/visual_composer.php:345 bestbuild/inc/visual_composer.php:360
+#: bestbuild/inc/visual_composer.php:375 bestbuild/inc/visual_composer.php:409
+#: bestbuild/inc/visual_composer.php:544 bestbuild/inc/visual_composer.php:586
+#: bestbuild/inc/visual_composer.php:656 bestbuild/inc/visual_composer.php:709
+#: bestbuild/inc/visual_composer.php:762 bestbuild/inc/visual_composer.php:783
+#: bestbuild/inc/visual_composer.php:961
+#: bestbuild/inc/visual_composer.php:1011
+#: bestbuild/inc/visual_composer.php:1024
+#: bestbuild/inc/visual_composer.php:1037
+#: bestbuild/inc/visual_composer.php:1066
+#: bestbuild/inc/visual_composer.php:1079
+#: bestbuild/inc/visual_composer.php:1100
+#: bestbuild/inc/visual_composer.php:1120
+#: bestbuild/inc/visual_composer.php:1133
+#: bestbuild/inc/visual_composer.php:1146
+#: bestbuild/inc/visual_composer.php:1250
+msgid "STM"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:259 bestbuild/inc/visual_composer.php:444
+#: bestbuild/inc/visual_composer.php:602
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:262 bestbuild/inc/visual_composer.php:447
+msgid "Style 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:263 bestbuild/inc/visual_composer.php:448
+msgid "Style 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:264
+msgid "Style 3"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:278 bestbuild/inc/visual_composer.php:319
+#: bestbuild/inc/visual_composer.php:372
+msgid "Item"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:285
+msgid "Label"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:290
+msgid "Value"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:297
+msgid "Company History"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:326
+msgid "Year"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:336 bestbuild/inc/visual_composer.php:395
+#: bestbuild/inc/visual_composer.php:434
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:149
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:343
+msgid "Projects Grid"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:356
+msgid "Our Partners"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:384
+msgid "Logo"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:407
+msgid "Staff"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:418
+msgid "Staff Image"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:429
+msgid "Job Title"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:439
+msgid "Full Description"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:453
+#: bestbuild/inc/redux-framework/options-init.php:1424
+msgid "Facebook"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:455 bestbuild/inc/visual_composer.php:461
+#: bestbuild/inc/visual_composer.php:467
+msgid "Socials"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:459
+#: bestbuild/inc/redux-framework/options-init.php:1432
+msgid "Twitter"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:465
+#: bestbuild/inc/redux-framework/options-init.php:1476
+msgid "Linkedin"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:479 bestbuild/inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:482 bestbuild/inc/visual_composer.php:523
+#: bestbuild/inc/visual_composer.php:1206
+msgid "STM Widgets"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:492
+#: bestbuild/inc/redux-framework/options-init.php:305
+#: bestbuild/inc/redux-framework/options-init.php:313
+#: bestbuild/inc/redux-framework/options-init.php:330
+#: bestbuild/inc/redux-framework/options-init.php:347
+#: bestbuild/inc/redux-framework/options-init.php:420
+#: bestbuild/inc/redux-framework/options-init.php:428
+#: bestbuild/inc/redux-framework/options-init.php:445
+#: bestbuild/inc/redux-framework/options-init.php:462
+#: bestbuild/inc/redux-framework/options-init.php:490
+#: bestbuild/inc/redux-framework/options-init.php:497
+#: bestbuild/inc/redux-framework/options-init.php:513
+#: bestbuild/inc/redux-framework/options-init.php:529
+msgid "Address"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:497 bestbuild/inc/visual_composer.php:986
+#: bestbuild/inc/redux-framework/options-init.php:314
+#: bestbuild/inc/redux-framework/options-init.php:331
+#: bestbuild/inc/redux-framework/options-init.php:348
+#: bestbuild/inc/redux-framework/options-init.php:429
+#: bestbuild/inc/redux-framework/options-init.php:446
+#: bestbuild/inc/redux-framework/options-init.php:463
+#: bestbuild/inc/redux-framework/options-init.php:498
+#: bestbuild/inc/redux-framework/options-init.php:514
+#: bestbuild/inc/redux-framework/options-init.php:530
+msgid "Phone"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:502
+msgid "Fax"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:507 bestbuild/inc/visual_composer.php:991
+#: bestbuild/woocommerce/single-product-reviews.php:58
+#: bestbuild/woocommerce/order/order-details.php:169
+msgid "Email"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:520 bestbuild/inc/widgets/services.php:11
+#: bestbuild/inc/widgets/services.php:60
+#: bestbuild/vc_templates/stm_contacts_widget.php:3
+#: bestbuild/vc_templates/stm_services_widget.php:3
+msgid "Services"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:541
+msgid "Info Box"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:554 bestbuild/inc/visual_composer.php:970
+msgid "Image"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:559 bestbuild/inc/visual_composer.php:640
+#: bestbuild/inc/visual_composer.php:1190
+msgid "Text"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:569
+msgid "Link Icon"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:583
+msgid "Icon Box"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:596 bestbuild/inc/visual_composer.php:671
+#: bestbuild/inc/visual_composer.php:731
+msgid "Icon"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:605
+msgid "Icon Top"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:606
+msgid "Icon Left"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:611 bestbuild/inc/visual_composer.php:677
+#: bestbuild/inc/visual_composer.php:737
+msgid "Icon Size"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:614 bestbuild/inc/visual_composer.php:680
+#: bestbuild/inc/visual_composer.php:740
+msgid "Enter icon size in px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:618 bestbuild/inc/visual_composer.php:684
+#: bestbuild/inc/visual_composer.php:744
+msgid "Icon Height"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:621 bestbuild/inc/visual_composer.php:687
+#: bestbuild/inc/visual_composer.php:747
+msgid "Enter icon height in px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:629
+msgid "Icon Width"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:632
+msgid "Enter icon width in px"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:653
+msgid "Icon Button"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:665
+msgid "Sub Text"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:691 bestbuild/inc/visual_composer.php:950
+#: bestbuild/inc/visual_composer.php:1238
+msgid "Extra class name"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:694 bestbuild/inc/visual_composer.php:953
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:706
+msgid "Stats Counter"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:719
+msgid "Counter Value"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:725
+msgid "Duration"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:759
+msgid "Testimonials"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:766
+msgid "Count"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:780
+msgid "Projects"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:787
+msgid "Category"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:793
+msgid "Category Filter"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:805
+msgid "Full Width"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:823
+msgid "Title Link"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:832
+msgid "Title Color"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:841
+msgid "Title Strip Color"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:856
+msgid "Infinite"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:861
+msgid "Enable infinite loop sliding"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:862 bestbuild/inc/visual_composer.php:872
+#: bestbuild/inc/visual_composer.php:882 bestbuild/inc/visual_composer.php:890
+#: bestbuild/inc/visual_composer.php:898 bestbuild/inc/visual_composer.php:906
+#: bestbuild/inc/visual_composer.php:914 bestbuild/inc/visual_composer.php:922
+msgid "Carousel Settings"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:866
+msgid "Arrows"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:871
+msgid "Enable Prev/Next Arrows"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:876
+msgid "Dots"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:881
+msgid "Show dot indicators"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:886
+msgid "Autoplay"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:889
+msgid "Autoplay Speed in milliseconds"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:894 bestbuild/inc/visual_composer.php:902
+msgid "Number of Columns (Normal Desktop)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:897 bestbuild/inc/visual_composer.php:905
+msgid ""
+"Number of items the carousel will display. Default: at <980px - 3 items."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:910
+msgid "Number of Columns (Tablet)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:913
+msgid ""
+"Number of items the carousel will display. Default: at <768px - 2 items."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:918
+msgid "Number of Columns (Mobile)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:921
+msgid "Number of items the carousel will display. Default: at <479px - 1 item."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:932
+msgid "Image @2X"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:944
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:959 bestbuild/inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:981
+msgid "Job"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:996
+#: bestbuild/inc/redux-framework/options-init.php:1532
+msgid "Skype"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1009
+msgid "Post Info"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1022
+msgid "Post Tags"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1035
+#: bestbuild/inc/visual_composer.php:1043
+msgid "Share"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1047
+#: bestbuild/inc/visual_composer.php:1104
+msgid "Code"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1064
+msgid "Post Author Box"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1077
+msgid "Post Comments"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1090
+msgid "Select"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1098
+msgid "STM Sidebar"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1118
+msgid "Vacancies"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1131
+msgid "Vacancy Details"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1144
+msgid "Pricing Tables"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1155
+msgid "Prefix"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1160
+#: bestbuild/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1165
+msgid "Separator"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1170
+msgid "Postfix"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1175
+msgid "Button"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1180
+msgid "Label State"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1185
+msgid "Label Text"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1203
+#: bestbuild/inc/redux-framework/options-init.php:1112
+#: bestbuild/inc/widgets/pages.php:21
+msgid "Pages"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1209
+msgid "Your sites WordPress Pages"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1213
+msgid "Widget title"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1215
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1219
+msgid "Order by"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1222 bestbuild/inc/widgets/pages.php:83
+msgid "Page title"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1223 bestbuild/inc/widgets/pages.php:84
+msgid "Page order"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1224 bestbuild/inc/widgets/pages.php:85
+msgid "Page ID"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1226
+msgid "Select how to sort pages."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1231
+msgid "Include"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1233
+msgid "Enter page IDs to be excluded (Note: separate values by commas (,))."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1240
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1246
+msgid "Animation Block"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1255
+msgid "Animation"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1261
+msgid "Animation Duration (s)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1264
+msgid "How long the animation effect should last. Decides the speed of effect."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1268
+msgid "Animation Delay (s)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1271
+msgid "Delays the animation effect for seconds you enter above."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1275
+msgid "Viewport Position (%)"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1278
+msgid "The area of screen from top where animation effects will start working."
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1356
+msgid "House 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1357
+msgid "House 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1358
+msgid "House 3"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1359
+msgid "House 4"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1360
+msgid "House 5"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1361
+msgid "House 6"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1362
+msgid "House 7"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1363
+msgid "House 8"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1364
+msgid "School 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1365
+msgid "School 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1366
+msgid "School 3"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1367
+msgid "Garage 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1368
+msgid "Clinic 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1369
+msgid "Hospital 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1370
+msgid "Temple 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1371
+msgid "Builder 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1372
+msgid "Builder 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1373
+msgid "Builder 3"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1374
+msgid "Gardening 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1375
+msgid "Key 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1376
+msgid "Paint 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1377
+msgid "Parking 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1378
+msgid "Trophy 1"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1379
+msgid "Trophy 2"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1380
+msgid "Trophy 3"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1381
+msgid "Eco"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1382
+msgid "Interior"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1383
+msgid "Restaurant"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1384
+msgid "Flag"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1385
+msgid "Handshake"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1386
+msgid "Innovation"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1387
+msgid "Like"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1388
+msgid "Eye"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1389
+msgid "Shield"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1390
+msgid "CheckMark"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1391
+msgid "BarGraph"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1401
+msgid "Content with left sidebar"
+msgstr ""
+
+#: bestbuild/inc/visual_composer.php:1414
+msgid "Content with right sidebar"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:31
+#: bestbuild/inc/redux-framework/options-init.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:87
+msgid "General"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:95
+msgid "Site Logo"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:97
+msgid "Upload your logo file here."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:103
+msgid "White-text Logo"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:105
+msgid ""
+"For our dark header options, we need your logo to be in white to stand out. "
+"Upload it here if you choose our dark or transparent header options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:114
+msgid "Logo Margin"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:116
+msgid "Set your logo margin in px. Just use the number"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:125
+msgid "Logo Dimensions (px)"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:137
+msgid "Site Favicon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:139
+msgid "Upload a 16px x 16px .png or .gif image here"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:144
+msgid "Boxed Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:150
+msgid "Background Image Type"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:152
+#: bestbuild/inc/redux-framework/options-init.php:233
+#: bestbuild/inc/redux-framework/options-init.php:598
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1861
+msgid "Default"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:153
+msgid "Pattern"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:154
+msgid "Custom"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:184
+msgid "Background Pattern"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:209
+msgid "Custom Background"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:222
+msgid "Header"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:230
+msgid "Header Style Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:231
+msgid "Select your header style option"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:234
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:124
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/color/field_color.php:73
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:235
+#: bestbuild/inc/redux-framework/options-init.php:246
+msgid "Dark"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:236
+#: bestbuild/inc/redux-framework/options-init.php:247
+msgid "White"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:243
+msgid "Mobile Header Style Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:244
+msgid "Select your mobile header style option"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:254
+msgid "Enable fixed header on scroll."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:260
+msgid "Enable Header WPML Switcher"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:266
+msgid "Enable header social media icons"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:272
+msgid "Select Social Media icons to display"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:273
+#: bestbuild/inc/redux-framework/options-init.php:379
+msgid ""
+"The urls for your social media icons will be taken from Social Media "
+"settings tab."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:306
+msgid ""
+"<strong>1010 Avenue of the Moon</strong><span>New York, NY 10018 US.</span>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:311
+#: bestbuild/inc/redux-framework/options-init.php:426
+#: bestbuild/inc/redux-framework/options-init.php:495
+msgid "Address Icon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:315
+#: bestbuild/inc/redux-framework/options-init.php:332
+#: bestbuild/inc/redux-framework/options-init.php:349
+#: bestbuild/inc/redux-framework/options-init.php:430
+#: bestbuild/inc/redux-framework/options-init.php:447
+#: bestbuild/inc/redux-framework/options-init.php:464
+#: bestbuild/inc/redux-framework/options-init.php:499
+#: bestbuild/inc/redux-framework/options-init.php:515
+#: bestbuild/inc/redux-framework/options-init.php:531
+msgid "Hours"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:322
+#: bestbuild/inc/redux-framework/options-init.php:437
+#: bestbuild/inc/redux-framework/options-init.php:506
+msgid "Working Hours"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:323
+msgid "<strong>Mon - Sat 8.00 - 18.00</strong><span>Sunday CLOSED</span>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:328
+msgid "Working Hours Icon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:339
+#: bestbuild/inc/redux-framework/options-init.php:454
+#: bestbuild/inc/redux-framework/options-init.php:522
+msgid "Phone number"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:340
+msgid "<strong>212 386 5575</strong><span>Free call</span>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:345
+msgid "Phone number Icon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:358
+msgid "Enable Top Bar"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:366
+msgid "Enable Top Bar WPML Switcher"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:372
+msgid "Enable Top Bar Social Media icons"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:378
+msgid "Select Social Media Icons to display"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:408
+msgid "Location 1"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:414
+#: bestbuild/inc/redux-framework/options-init.php:485
+msgid "Office (for dropdown options)"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:415
+msgid "New York Office"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:421
+msgid "1010 Moon ave, New York, NY US"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:438
+msgid "Mon - Sat 8.00 - 18.00"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:443
+#: bestbuild/inc/redux-framework/options-init.php:511
+msgid "Hours Icon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:455
+msgid "Call Free:  +1 212-226-3126"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:460
+#: bestbuild/inc/redux-framework/options-init.php:527
+msgid "Phone Icon"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:479
+#, php-format
+msgid "Location %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:543
+msgid "Top Bar"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:551
+msgid "Blog"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:560
+msgid "Grid view"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:561
+msgid "List view"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:564
+msgid "Blog Layout"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:571
+#: bestbuild/inc/redux-framework/options-init.php:885
+msgid "Sidebar"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:576
+#: bestbuild/inc/redux-framework/options-init.php:890
+msgid "Sidebar - Position"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:578
+#: bestbuild/inc/redux-framework/options-init.php:892
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:159
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:579
+#: bestbuild/inc/redux-framework/options-init.php:893
+msgid "No Sidebar"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:580
+#: bestbuild/inc/redux-framework/options-init.php:894
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:145
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:588
+msgid "Styling"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:596
+#: bestbuild/partials/frontend_customizer.php:35
+msgid "Color Skin"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:599
+msgid "Red"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:600
+msgid "Yellow"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:601
+msgid "Orange"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:602
+msgid "Green"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:603
+msgid "Custom color"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:611
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:875
+msgid "Shop"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:902
+msgid "Typography"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:909
+msgid "Body"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:925
+msgid "Select custom font for your main body text."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:935
+msgid "Heading"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:951
+msgid "Select custom font for headings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:961
+msgid "H1"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:986
+msgid "H2"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1011
+msgid "H3"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1036
+msgid "H4"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1061
+msgid "H5"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1086
+msgid "H6"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1120
+msgid "Projects Page"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1126
+msgid "Services Page"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1132
+msgid "Vacancies Page"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1137
+msgid "Page Background Default Settings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1171
+msgid "Title Box Default Settings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1211
+msgid "Sub Title Line Color"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1266
+msgid "Page Breadcrumbs Default Settings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1293
+msgid "Title Box Button Default Settings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1342
+msgid "Prev/Next Buttons Default Settings"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1367
+msgid "Border Color (hover)"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1387
+msgid "Enable footer widgets area."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1393
+msgid "Footer Columns"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1394
+msgid "Select the number of columns to display in the footer."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1399
+msgid "1 Columns"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1400
+msgid "2 Columns"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1401
+msgid "3 Columns"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1402
+msgid "4 Columns"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1408
+msgid "Footer Copyright"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1409
+msgid "Enter the copyright text."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1410
+msgid ""
+"Copyright &copy; 2015 Construct Theme by <a target=\"_blank\" href=\"http://"
+"www.stylemixthemes.com/\">Stylemix Themes</a>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1416
+msgid "Social Media"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1418
+msgid ""
+"Enter social media urls here and then you can enable them for footer or "
+"header. Please add full URLs including \"http://\"."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1427
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1435
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1440
+#: bestbuild/inc/widgets/instagram.php:12
+#: bestbuild/inc/widgets/instagram.php:89
+msgid "Instagram"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1443
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1448
+msgid "Behance"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1450
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1455
+msgid "Dribbble"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1457
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1462
+msgid "Flickr"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1464
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1469
+msgid "Git"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1471
+msgid "Enter your Git URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1478
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1483
+msgid "Pinterest"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1485
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1490
+msgid "Yahoo"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1492
+msgid "Enter your Yahoo URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1497
+msgid "Delicious"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1499
+msgid "Enter your Delicious URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1504
+msgid "Dropbox"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1506
+msgid "Enter your Dropbox URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1511
+msgid "Reddit"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1513
+msgid "Enter your Reddit URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1518
+msgid "Soundcloud"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1520
+msgid "Enter your Soundcloud URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1525
+msgid "Google"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1527
+msgid "Enter your Google URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1534
+msgid "Enter your Skype URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1539
+msgid "Youtube"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1541
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1546
+msgid "Tumblr"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1548
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1553
+msgid "Whatsapp"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1555
+msgid "Enter your Whatsapp URL."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1561
+msgid "Custom CSS"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1568
+msgid "CSS Code"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1569
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1579
+msgid "One Click Update"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1580
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!<br> If "
+"you have any troubles while using auto update ( It is likely to be a "
+"permissions issue ) then you may want to manually update the theme as normal."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1586
+msgid "ThemeForest Username"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1588
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. "
+"Stylemixthemes)."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1593
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/options-init.php:1595
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:221
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:225
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1409
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1717
+msgid "Disable"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1723
+msgid "moving the mouse over"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1725
+msgid "clicking"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1729
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:1734
+msgid "Hints"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:2711
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/framework.php:2797
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:397
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:405
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:421
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:428
+msgid "Please Wait"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/enqueue.php:440
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/debug.php:41
+#: bestbuild/inc/redux-framework/redux-framework/inc/debug.php:69
+#: bestbuild/inc/redux-framework/redux-framework/inc/debug.php:76
+#: bestbuild/inc/redux-framework/redux-framework/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:154
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:34
+#: bestbuild/woocommerce/myaccount/form-login.php:80
+msgid "Email address"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:277
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:314
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:198
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:126
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:321
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:205
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:133
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:138
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:152
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:62
+#: bestbuild/woocommerce/myaccount/form-login.php:38
+#: bestbuild/woocommerce/myaccount/form-login.php:86
+msgid "Password"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:63
+#: bestbuild/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:83
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:134
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:73
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:153
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:167
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:220
+#: bestbuild/woocommerce/cart/cart.php:25
+msgid "Delete"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:258
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:273
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:342
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:343
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:365
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:366
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:388
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:389
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:408
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:409
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:432
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:441
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:450
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:459
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/color/validation_color.php:15
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/email/validation_email.php:16
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:210
+msgid "Get Support"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:344
+msgid "Extensions"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:352
+msgid "Credits"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:360
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1391
+#: bestbuild/woocommerce/myaccount/my-orders.php:34
+#: bestbuild/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/welcome.php:517
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:8
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:8
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:8
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:82
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:31
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:5
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:358
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:22
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:47
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:50
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:51
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:56
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:12
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: bestbuild/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:177
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:532
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1167
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1170
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1288
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1312
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2070
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2070
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: bestbuild/inc/tgm/tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bestbuild/inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: bestbuild/inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: bestbuild/inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: bestbuild/inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:92
+#: bestbuild/inc/widgets/instagram.php:126 bestbuild/inc/widgets/pages.php:79
+#: bestbuild/inc/widgets/services.php:65
+msgid "Title:"
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr ""
+
+#: bestbuild/inc/widgets/contacts.php:108
+msgid "E-mail:"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:13
+msgid "Instagram widget"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:51
+msgid "Error Instagram Token"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:55
+msgid "Error Client Id"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:130
+msgid "Number of posts to show:"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:134
+msgid "Cache: (h)"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:138
+msgid "Client Id:"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:142
+msgid "Secret:"
+msgstr ""
+
+#: bestbuild/inc/widgets/instagram.php:146
+msgid "Token:"
+msgstr ""
+
+#: bestbuild/inc/widgets/pages.php:6
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: bestbuild/inc/widgets/pages.php:7
+msgid "STM Pages"
+msgstr ""
+
+#: bestbuild/inc/widgets/pages.php:81
+msgid "Sort by:"
+msgstr ""
+
+#: bestbuild/inc/widgets/pages.php:89
+msgid "Include:"
+msgstr ""
+
+#: bestbuild/inc/widgets/pages.php:91
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: bestbuild/inc/widgets/services.php:12
+msgid "Services widget"
+msgstr ""
+
+#: bestbuild/partials/content-loop_grid.php:7
+#: bestbuild/vc_templates/stm_projects.php:119
+#: bestbuild/vc_templates/stm_projects.php:195
+#: bestbuild/vc_templates/stm_projects.php:212
+#: bestbuild/vc_templates/stm_projects_grid.php:58
+#: bestbuild/vc_templates/stm_staff.php:41
+msgid "View More"
+msgstr ""
+
+#: bestbuild/partials/content-loop_list.php:6
+#: bestbuild/partials/content.php:65
+#: bestbuild/vc_templates/stm_post_info.php:15
+msgid "Posted by:"
+msgstr ""
+
+#: bestbuild/partials/content-loop_list.php:7
+#: bestbuild/partials/content.php:66
+#: bestbuild/vc_templates/stm_post_info.php:16
+msgid "Category:"
+msgstr ""
+
+#: bestbuild/partials/content-loop_list.php:22
+msgid "READ MORE"
+msgstr ""
+
+#: bestbuild/partials/content-page.php:21 bestbuild/partials/content.php:11
+#: bestbuild/partials/content.php:85
+msgid "Pages:"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:4
+msgid "Navigation"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:7
+msgid "Static"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:9
+msgid "Sticky"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:13
+msgid "Layout"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:16
+msgid "Wide"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:18
+msgid "Boxed"
+msgstr ""
+
+#: bestbuild/partials/frontend_customizer.php:46
+msgid "Reset"
+msgstr ""
+
+#: bestbuild/partials/title_box.php:30 bestbuild/partials/title_box.php:50
+msgid "News & Events"
+msgstr ""
+
+#: bestbuild/partials/title_box.php:41
+msgid "Search"
+msgstr ""
+
+#: bestbuild/partials/title_box.php:144
+msgid "MY CART"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_contact.php:29
+msgid "Phone: "
+msgstr ""
+
+#: bestbuild/vc_templates/stm_contact.php:32
+msgid "Email: "
+msgstr ""
+
+#: bestbuild/vc_templates/stm_contact.php:35
+msgid "Skype: "
+msgstr ""
+
+#: bestbuild/vc_templates/stm_info_box.php:26
+msgid "Read More"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_post_author_box.php:16
+msgid "Author:"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_projects.php:103
+#: bestbuild/vc_templates/stm_projects_grid.php:21
+msgid "All Projects"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancies.php:17
+msgid "Job Posting Title"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancies.php:20
+#: bestbuild/woocommerce/myaccount/my-orders.php:33
+#: bestbuild/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancy_details.php:12
+msgid "Departament:"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancy_details.php:16
+msgid "Project Location(s):"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancy_details.php:20
+msgid "Job Type:"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancy_details.php:24
+msgid "Education:"
+msgstr ""
+
+#: bestbuild/vc_templates/stm_vacancy_details.php:28
+msgid "Compensation:"
+msgstr ""
+
+#: bestbuild/vc_templates/vc_button2.php:5
+#: bestbuild/vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr ""
+
+#: bestbuild/vc_templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr ""
+
+#: bestbuild/vc_templates/vc_wp_categories.php:4
+msgid "Categories"
+msgstr ""
+
+#: bestbuild/vc_templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr ""
+
+#: bestbuild/vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:33
+msgid "There are no reviews yet."
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:46
+msgid "Add a review"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:46
+msgid "Be the first to review"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:47
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:62
+msgid "Submit"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:69
+msgid "Rate&hellip;"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:70
+msgid "Perfect"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:71
+msgid "Good"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:72
+msgid "Average"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:73
+msgid "Not that bad"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:74
+msgid "Very Poor"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:78
+msgid "Your Review"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:22
+#: bestbuild/woocommerce/cart/cart-shipping.php:97
+#: bestbuild/woocommerce/cart/cart-totals.php:40
+msgid "Shipping"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-shipping.php:76
+#: bestbuild/woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-totals.php:13
+msgid "Cart Totals"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-totals.php:18
+#: bestbuild/woocommerce/cart/mini-cart.php:63
+#: bestbuild/woocommerce/checkout/review-order.php:38
+msgid "Subtotal"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-totals.php:72
+#: bestbuild/woocommerce/cart/cart.php:29
+#: bestbuild/woocommerce/checkout/review-order.php:10
+#: bestbuild/woocommerce/checkout/review-order.php:85
+#: bestbuild/woocommerce/myaccount/my-orders.php:35
+#: bestbuild/woocommerce/myaccount/my-orders.php:58
+#: bestbuild/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-totals.php:84
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:26
+msgid "Product Name"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:46
+#: bestbuild/woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:117
+msgid "Coupon code"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:117
+msgid "Apply Coupon"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/cross-sells.php:34
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: bestbuild/woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:47
+#: bestbuild/woocommerce/cart/shipping-calculator.php:53
+#: bestbuild/woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: bestbuild/woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-checkout.php:12
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-checkout.php:44
+msgid "Your order"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/form-shipping.php:58
+#: bestbuild/woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:10
+msgid "payment"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:25
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:27
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:38
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:38
+msgid "Update totals"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/payment.php:48
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: bestbuild/woocommerce/checkout/review-order.php:9
+#: bestbuild/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: bestbuild/woocommerce/global/form-login.php:18
+msgid "Username or email *"
+msgstr ""
+
+#: bestbuild/woocommerce/global/form-login.php:21
+msgid "Password *"
+msgstr ""
+
+#: bestbuild/woocommerce/global/form-login.php:29
+#: bestbuild/woocommerce/myaccount/form-login.php:30
+#: bestbuild/woocommerce/myaccount/form-login.php:45
+msgid "Login"
+msgstr ""
+
+#: bestbuild/woocommerce/global/form-login.php:32
+#: bestbuild/woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: bestbuild/woocommerce/global/form-login.php:36
+#: bestbuild/woocommerce/myaccount/form-login.php:51
+msgid "Lost your password?"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:24
+msgid "First name"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:28
+msgid "Last name"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:39
+msgid "Password Change"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:42
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:46
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:50
+msgid "Confirm New Password"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-account.php:60
+msgid "Save changes"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-address.php:16
+#: bestbuild/woocommerce/myaccount/my-address.php:19
+#: bestbuild/woocommerce/myaccount/my-address.php:25
+#: bestbuild/woocommerce/order/order-details.php:190
+msgid "Billing Address"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-address.php:16
+#: bestbuild/woocommerce/myaccount/my-address.php:20
+#: bestbuild/woocommerce/order/order-details.php:209
+msgid "Shipping Address"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-login.php:67
+#: bestbuild/woocommerce/myaccount/form-login.php:99
+msgid "Register"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/form-login.php:92
+msgid "Anti-spam"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-address.php:33
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-address.php:83
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/view-order.php:24
+#: bestbuild/woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: bestbuild/woocommerce/myaccount/view-order.php:30
+#: bestbuild/woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: bestbuild/woocommerce/notices/error.php:21
+msgid "Error"
+msgstr ""
+
+#: bestbuild/woocommerce/notices/notice.php:21
+msgid "Informational"
+msgstr ""
+
+#: bestbuild/woocommerce/notices/success.php:21
+msgid "Success"
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: bestbuild/woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:58
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:123
+#: bestbuild/woocommerce/order/order-details.php:127
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:145
+msgid "Refunded:"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:154
+msgid "Note:"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:164
+msgid "Customer details"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:169
+msgid "Email:"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:173
+msgid "Telephone:"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:173
+msgid "Telephone"
+msgstr ""
+
+#: bestbuild/woocommerce/order/order-details.php:195
+#: bestbuild/woocommerce/order/order-details.php:214
+msgid "N/A"
+msgstr ""
+
+#: bestbuild/woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bestbuild/woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: bestbuild/woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: bestbuild/woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/review.php:29
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/review.php:37
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/review.php:38
+msgid "out of 5"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: bestbuild/woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

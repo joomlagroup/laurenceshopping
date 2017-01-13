@@ -1,0 +1,324 @@
+body{
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.logo{
+    float: right;
+}
+
+.header_socials{
+    margin: 0 82px 0 0;
+    float: left;
+}
+
+.header_socials a:first-child,
+.header_socials a{
+    margin: 10px 16px 0 0;
+}
+
+.header_top .icon_text{
+    float: left;
+    margin: 5px 25px 0 0;
+}
+
+.top_nav .icon_text{
+    float: left;
+}
+
+.top_nav .top_nav_wrapper > ul, .top_nav .main_menu_nav > ul{
+    float: right;
+}
+
+body .vc_call_to_action.vc_cta_btn_pos_right .vc_button-2-wrapper{
+    float: left;
+}
+
+.vc_txt_align_left{
+    text-align: right;
+}
+
+body .vc_call_to_action{
+    padding: 16px 55px 15px 30px;
+}
+
+.info_box .read_more .stm_icon{
+    margin: 0 0 0 5px;
+}
+
+.info_box .read_more .stm_icon{
+    display: inline-block;
+}
+
+.info_box ul li, .wpb_content_element ul li, .text_block ul li, .comment-info ul li{
+    padding: 0 20px 0 0;
+}
+
+.info_box ul li:before, .text_block ul li:before, .comment-info ul li:before, .wpb_content_element ul li:before{
+    content: "\f053";
+    left: auto;
+    right: 0;
+}
+
+.top_nav .top_nav_wrapper > ul > li ul, .top_nav .main_menu_nav > ul > li ul{
+    right: 0;
+    left: auto;
+}
+
+.slick-slider{
+    direction: ltr;
+}
+
+.projects_tabs h2{
+    float: right;
+}
+
+.projects_tabs .tabs{
+    float: left;
+    margin: 17px 0 0 -15px;
+}
+
+.testimonials_module .testimonial{
+    text-align: right;
+}
+
+.testimonials_module .testimonial-image{
+    float: right;
+    margin: 0 0 0 15px;
+}
+
+.testimonials_module .testimonial-text{
+    float: right;
+}
+
+.testimonials_module .slick-dots li{
+    float: right;
+}
+
+.testimonials_module .slick-dots{
+    margin-right: 20px;
+}
+
+.footer_socials a:first-child{
+    margin: 0 0 0 16px;
+}
+
+body.header_style_dark .top_nav .top_nav_wrapper > ul, body.header_style_dark .top_nav .main_menu_nav > ul, body.header_style_white .top_nav .top_nav_wrapper > ul, body.header_style_white .top_nav .main_menu_nav > ul{
+    float: left;
+}
+
+.top_bar_info_switcher .active:before{
+    right: auto;
+    left: 13px;
+}
+
+.top_bar_info_switcher .active{
+    padding: 0 20px 0 27px;
+}
+
+.top_bar .top_bar_info li .fa{
+    margin: 0 0 0 7px;
+}
+
+.top_bar #stm_wpml_lang_switcher{
+    float: right;
+}
+
+.top_bar_info_switcher{
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.top_bar .top_bar_info{
+    float: left;
+}
+
+.top_bar .top_bar_socials{
+    float: left;
+}
+
+.top_bar_info_switcher .active{
+    white-space: nowrap;
+}
+
+.top_bar_info_switcher li{
+    padding: 0 20px 0 27px;
+}
+
+.top_nav .top_nav_wrapper > ul > li, .top_nav .main_menu_nav > ul > li{
+    float: right;
+}
+
+.widget_contacts ul li:before{
+    content: '';
+}
+
+.wpb_wrapper .widget_contacts .icon{
+    text-align: left;
+}
+
+.info_box ul li, .wpb_content_element ul li, .text_block ul li, .comment-info ul li{
+    padding: 0 0 0 20px;
+}
+
+.widget_pages.vc_widgets li.current_page_item:before{
+    right: auto;
+    left: 0;
+}
+
+.wpb_content_element ul.type_2 li:before, .text_block ul.type_2 li:before, .comment-info ul.type_2 li:before{
+    right: auto;
+    left: 0;
+}
+
+.entry-header .entry-title-left{
+    float: right;
+}
+
+.entry-header .entry-title-right{
+    float: left;
+}
+
+.company_history_header .year{
+    padding: 0 0 0 33px;
+    margin: 0 0 0 25px;
+    border-right: none;
+    border-left: 5px solid #dac725;
+}
+
+.icon_box.icon_left .icon{
+    float: right;
+    margin: 0 0 0 26px;
+}
+
+.our_partners .logo{
+    float: right;
+    margin: 0 0 0 30px;
+}
+
+.stm_staff_2 .staff_read_more{
+    float: right;
+    margin: 0 0 0 30px;
+    white-space: nowrap;
+}
+
+.entry-header .entry-title-right .button{
+    white-space: nowrap;
+}
+
+.vacancy_table th:after{
+    margin: 2px 20px 0 0;
+}
+
+.vacancy_table th{
+    text-align: right;
+}
+
+.project_info .project_info_wr table td,
+.project_info .project_info_wr table th{
+    text-align: right;
+}
+
+body .widget_services ul li:before{
+    content: '';
+}
+
+body .wpb_image_grid .wpb_image_grid_ul .isotope-item{
+    margin: 0 0 14px 14px;
+    float: right;
+}
+
+.slick-dots li{
+    float: right;
+}
+
+.info_box ul li:before, .text_block ul li:before, .comment-info ul li:before, .wpb_content_element ul li:before{
+    content: "\f054";
+    left: 0;
+    right: auto;
+}
+
+body .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, body .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon{
+    right: auto;
+    left: 17px;
+}
+
+.post_read_more .button{
+    white-space: nowrap;
+}
+
+.stm_post_details .comments_num{
+    float: left;
+    text-align: left;
+}
+
+.stm_post_details ul{
+    float: right;
+    text-align: right;
+}
+
+.stm_post_details ul li:before{
+    display: none;
+}
+
+.stm_post_details .comments_num .fa{
+    margin: 0 0 0 8px;
+}
+
+.stm_post_details ul li:after{
+    content: '|';
+    display: inline-block;
+    vertical-align: baseline;
+    margin: 0 18px 0 0;
+}
+
+.stm_post_details ul li,
+.stm_post_details ul li:last-child{
+    margin: 0 20px 0 0;
+    float: right;
+}
+
+.search-form button{
+    right: auto;
+    left: 0;
+}
+
+.page-numbers li, .page-links > span, .page-links > a, .page-links > label{
+    float: right;
+    margin: 0 0 0 11px;
+}
+
+.woocommerce .button{
+    white-space: nowrap;
+}
+
+.mobile_header .header_socials{
+    text-align: left;
+}
+
+.mobile_header .header_socials a, .mobile_header .header_socials a:first-child{
+    margin: 5px 0 5px 30px;
+}
+
+.mobile_header .top_nav_mobile .main_menu_nav > li.menu-item-has-children .arrow{
+    right: auto;
+    left: 10px;
+}
+
+.mobile_header .top_nav_mobile .main_menu_nav ul{
+    margin-left: 0;
+    margin-right: 51px;
+}
+
+.mobile_header .header_info .icon_text .icon{
+    float: right;
+}
+
+.mobile_header .header_info .icon_text{
+    margin-right: 0;
+    margin-left: 70px;
+}
+
+.stm_post_details ul li{
+    white-space: nowrap;
+}

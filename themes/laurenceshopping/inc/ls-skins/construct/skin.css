@@ -1,0 +1,139 @@
+/* LayerSlider No Skin */
+
+
+
+.ls-construct .ls-playvideo {
+    width: 50px;
+    height: 50px;
+    margin-left: -25px;
+    margin-top: -25px;
+}
+
+
+.ls-construct .ls-playvideo,
+.ls-construct .ls-loading-container,
+.ls-construct .ls-fullscreen {
+    background-image: url(skin.png);
+}
+
+.ls-construct .ls-playvideo {
+    background-position: -300px -150px;
+}
+
+.ls-construct .ls-playvideo:hover,
+.ls-construct .ls-vpcontainer:hover .ls-playvideo {
+    background-position: -375px -150px;
+}
+
+.ls-construct .ls-thumbnail {
+    top: 0px;
+}
+
+.ls-construct .ls-thumbnail-inner {
+    padding: 5px;
+    margin-left: -5px;
+}
+
+.ls-construct .ls-thumbnail-slide a {
+    margin-right: 5px;
+}
+
+.ls-construct .ls-nothumb {
+    background: #eee;
+}
+
+.ls-construct .ls-loading-container {
+    width: 40px;
+    height: 40px;
+    margin-left: -20px;
+    margin-top: -20px;
+    background-position: -450px -150px;
+}
+
+.ls-construct .ls-loading-indicator {
+    width: 22px;
+    height: 22px;
+    margin-top: 9px;
+    background-image: url(loading.gif);
+}
+
+.ls-construct .ls-fullscreen {
+    width: 30px;
+    height: 30px;
+    right: 10px;
+    top: 10px;
+    background-position: -525px -150px;
+}
+
+.ls-construct .ls-fullscreen:hover {
+    background-position: -525px -190px;
+}
+
+.ls-construct .ls-nav-prev,
+.ls-construct .ls-nav-next {
+    width: 37px;
+    height: 39px;
+    z-index: 10000;
+    border: 3px solid #ccc !important;
+    opacity: 0.7;
+    top: 50%;
+    margin-top: -22px;
+    position: absolute;
+    font-size: 22px;
+    text-align: center;
+    color: #ccc;
+    transition: background 0.2s linear, border 0.2s linear, color 0.2s linear !important;
+}
+
+.ls-construct .ls-nav-prev {
+    left: 57px;
+    padding-right: 2px !important;
+}
+
+.ls-construct .ls-nav-next {
+    right: 57px;
+    padding-left: 2px !important;
+}
+
+.ls-construct .ls-nav-prev:before{
+    content: "\f053";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    margin: 9px 0 0 0;
+}
+
+.ls-construct .ls-nav-next:before{
+    content: "\f054";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    margin: 9px 0 0 0;
+}
+
+.ls-construct .ls-nav-prev:hover,
+.ls-construct .ls-nav-next:hover{
+    border-color: #dac725 !important;
+    background: #dac725;
+    opacity: 1;
+    color: #fff;
+}
+
+.ls-construct .ls-l.overlay{
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    background: rgba(0,0,0,0.10);
+}

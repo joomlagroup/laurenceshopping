@@ -1,0 +1,82 @@
+body.skin_custom_color .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a{
+    color: #fff;
+}
+
+body.skin_custom_color .button.button-outline{
+    border: 2px solid #cdcdcd;
+    background-color: transparent;
+    color: #cdcdcd;
+}
+
+body.skin_custom_color .button.button-outline:active,
+body.skin_custom_color .button.button-outline:focus,
+body.skin_custom_color .button.button-outline:hover{
+    color: #ffffff;
+}
+
+body.skin_custom_color .button:hover,
+body.skin_custom_color .button:active,
+body.skin_custom_color .button:focus,
+body.skin_custom_color .form-submit .submit:hover,
+body.skin_custom_color .form-submit .submit:active,
+body.skin_custom_color .form-submit .submit:focus{
+    background: #777;
+    color: #fff;
+}
+
+body.skin_custom_color .button_3d.white span{
+    background: #fff;
+}
+
+body.skin_custom_color .breadcrumbs a:hover{
+    color: #333;
+}
+
+body.skin_custom_color .icon_button.skype a:hover{
+    background: #12A5F4;
+    border-color: #12A5F4;
+    color: #fff;
+}
+
+body.skin_custom_color .icon_button.skype a:hover i,
+body.skin_custom_color .icon_button.skype a i,
+body.skin_custom_color .icon_button a:hover i{
+    border-color: #fff;
+}
+
+body.skin_custom_color .icon_button a:hover,
+body.skin_custom_color .stm_post_tags a:hover,
+body.skin_custom_color .project_grid_filter ul li.active a:hover{
+    color: #fff;
+}
+
+body.skin_custom_color .vacancy_table th.headerSortDown:after,
+body.skin_custom_color .vacancy_table th.headerSortUp:after,
+body.skin_custom_color .vacancy_table th.headerSortDown:hover:after,
+body.skin_custom_color .vacancy_table th.headerSortUp:hover:after{
+    color: #fff;
+}
+
+body.skin_custom_color.header_style_2 .entry-header{
+    background: none;
+}
+
+body.skin_custom_color.header_style_transparent .entry-header{
+    background: none;
+}
+
+body.skin_custom_color .button.white{
+    background: #fff;
+}
+
+body.skin_custom_color .button.white.bordered{
+    background: none;
+}
+
+body.skin_custom_color .button.dark{
+    background: #333;
+}
+
+body.skin_custom_color .top_bar_info_switcher li a:hover{
+    color: #fff;
+}

@@ -1,0 +1,367 @@
+body.skin_green #magic-line,
+body.skin_green h1:before,
+body.skin_green .h1:before,
+body.skin_green h2:before,
+body.skin_green .h2:before,
+body.skin_green h3:before,
+body.skin_green .h3:before,
+body.skin_green h4:before,
+body.skin_green .h4:before,
+body.skin_green h5:before,
+body.skin_green .h5:before,
+body.skin_green h6:before,
+body.skin_green .h6:before,
+body.skin_green .button,
+body.skin_green .form-submit .submit,
+body.skin_green .button.white:hover,
+body.skin_green .button.white:active,
+body.skin_green .button.white:focus,
+body.skin_green .button.grey:hover,
+body.skin_green .button.grey:active,
+body.skin_green .button.grey:focus,
+body.skin_green .button_3d span,
+body.skin_green .button_3d.white span::before,
+body.skin_green .button_3d.white:hover span::before,
+body.skin_green .button_3d.white:focus span::before,
+body.skin_green .slider_line,
+body.skin_green .entry-header,
+body.skin_green .projects_tabs h2:before,
+body.skin_green .footer_widgets .widget_title h4:before,
+body.skin_green .slick_prev:hover,
+body.skin_green .slick_next:hover,
+body.skin_green .slick-dots li.slick-active button,
+body.skin_green .icon_button a:hover,
+body.skin_green .icon_button.skype a,
+body.skin_green .project_grid_filter ul li.active a,
+body.skin_green .project_grid .project .view_more:hover,
+body.skin_green .project_grid .project .view_more:active,
+body.skin_green .project_grid .project .view_more:focus,
+body.skin_green .projects_carousel .project .view_more:hover,
+body.skin_green .projects_carousel .project .view_more:active,
+body.skin_green .projects_carousel .project .view_more:focus,
+body.skin_green .our_partners > ul > li:hover .text h5:before,
+body.skin_green .page-numbers .page-numbers:hover,
+body.skin_green .page-numbers .page-numbers.current,
+body.skin_green .page-links > span,
+body.skin_green .page-links > a:hover,
+body.skin_green .widget_tag_cloud .tagcloud a:hover,
+body.skin_green .widget_recent_entries li:hover:before,
+body.skin_green .stm_post_tags a:hover,
+body.skin_green .tp-leftarrow.default:hover,
+body.skin_green .tp-rightarrow.default:hover,
+body.skin_green .page_404 .button:hover,
+body.skin_green .vc_call_to_action,
+body.skin_green .vc_custom_heading > *:before,
+body.skin_green .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,
+body.skin_green .vc_grid-item.services:hover .vc_gitem-post-data-source-post_title > *:before,
+body.skin_green .vc_btn-orange,
+body.skin_green a.vc_btn-orange,
+body.skin_green button.vc_btn-orange,
+body.skin_green .wpb_content_element .wpb_tabs_nav li.ui-tabs-active:before,
+body.skin_green.woocommerce div.product .product_meta .tagged_as a:hover,
+body.skin_green .woocommerce-tabs:before,
+body.skin_green .woocommerce .quantity_actions span:hover,
+body.skin_green .button.button-outline:active,
+body.skin_green .button.button-outline:focus,
+body.skin_green .button.button-outline:hover,
+body.skin_green.woocommerce form.woocommerce-product-search:hover:before,
+body.skin_green.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+body.skin_green .woocommerce.widget_product_tag_cloud .tagcloud a:hover,
+body.skin_green #frontend_customizer_button,
+body.skin_green .customizer_reset_button:hover,
+body.skin_green .widget.widget_calendar #today,
+body.skin_green .widget.widget_recent_comments ul li:hover:before,
+body.skin_green .ls-construct .ls-nav-prev:hover,
+body.skin_green .ls-construct .ls-nav-next:hover,
+body.skin_green .vacancy_table th.headerSortDown,
+body.skin_green .vacancy_table th.headerSortUp,
+body.skin_green .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:hover,
+body.skin_green .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:focus,
+body.skin_green .wpb_tour .ui-tabs-nav li.ui-tabs-active a:before,
+body.skin_green .widget_search button[type="submit"]:hover,
+body.skin_green .select2-container--default .select2-results__option--highlighted[aria-selected],
+body.skin_green.woocommerce .quantity_actions span:hover,
+body.skin_green .ls-l.layer_line,
+body.skin_green .button.dark:hover,
+body.skin_green .button.dark:active,
+body.skin_green .button.dark:focus,
+body.skin_green .top_bar_info_switcher .active,
+body.skin_green .top_bar_info_switcher ul
+{
+    background-color: #34ef5c;
+}
+
+body.skin_green a:hover,
+body.skin_green a:active,
+body.skin_green a:focus,
+body.skin_green .icon_text .icon,
+body.skin_green mark,
+body.skin_green .header_socials a:hover,
+body.skin_green .icon_text .icon,
+body.skin_green .entry-header .entry-title-right .button.cart_link .fa,
+body.skin_green .info_box ul li:before,
+body.skin_green .text_block ul li:before,
+body.skin_green .comment-info ul li:before,
+body.skin_green .wpb_content_element ul li:before,
+body.skin_green .projects_tabs .tabs a:hover,
+body.skin_green .projects_tabs .tabs a.active,
+body.skin_green .icon_box .icon,
+body.skin_green .stats_counter .icon,
+body.skin_green .posts_grid .sticky h4 a,
+body.skin_green .posts_grid .post_date .fa,
+body.skin_green .prev_next_post a:hover,
+body.skin_green .wpb_gallery_slidesslick_slider_2.slider_main .slider_info span,
+body.skin_green .widget_pages.vc_widgets li a:hover,
+body.skin_green .widget_pages.vc_widgets li.current_page_item a,
+body.skin_green .our_partners .text h5 a:hover,
+body.skin_green .stm_staff_2 .staff_socials li a:hover,
+body.skin_green .stm_post_details .comments_num .fa,
+body.skin_green ul.comment-list .comment .comment-meta a:hover,
+body.skin_green .comment-awaiting-moderation,
+body.skin_green .vc_call_to_action a.vc_btn:after,
+body.skin_green .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover,
+body.skin_green .wpb_wrapper .widget_contacts .icon,
+body.skin_green .vc_grid-item.services .vc_gitem-post-data-source-post_title a:hover,
+body.skin_green .vc_gitem-post-data-source-post_date:before,
+body.skin_green ul.products .added_to_cart:before,
+body.skin_green ul.products .added_to_cart:hover,
+body.skin_green.woocommerce-page p.stars a,
+body.skin_green .woocommerce .shop_table.cart td.product-remove a:hover,
+body.skin_green .woocommerce .shop_table.cart td.product-name a:hover,
+body.skin_green .widget_shopping_cart .cart_list li a.remove:hover,
+body.skin_green .widget_product_categories > ul > li:before,
+body.skin_green .widget_product_categories > ul > li > a:hover,
+body.skin_green.woocommerce .product_list_widget a:hover,
+body.skin_green.woocommerce .product_list_widget .product-title:hover,
+body.skin_green .widget.widget_nav_menu .menu > li > a:hover,
+body.skin_green .widget.widget_nav_menu.footer_widgets .menu > li > a:hover,
+body.skin_green .mobile_header .top_nav_mobile .main_menu_nav li.current_page_item > a,
+body.skin_green .mobile_header .top_nav_mobile .main_menu_nav > li.current_page_item.menu-item-has-children .arrow,
+body.skin_green .mobile_header .top_nav_mobile .main_menu_nav li.current-menu-parent > a,
+body.skin_green .mobile_header .top_nav_mobile .main_menu_nav > li.current-menu-parent.menu-item-has-children .arrow,
+body.skin_green .widget.footer_widgets ul li:before,
+body.skin_green .info_box .read_more:hover,
+body.skin_green .projects_tabs h2 a:hover,
+body.skin_green .vc_custom_heading a:hover,
+body.skin_green #stm_wpml_lang_switcher li a:hover,
+body.skin_green .vacancy_table th:hover:after,
+body.skin_green .wpb_content_element .dropcarps_bordered:first-letter,
+body.skin_green .wpb_content_element ul.style_1 li:before,
+body.skin_green ul.style_1 li:before,
+body.skin_green .wpb_content_element ul.style_2 li:before,
+body.skin_green ul.style_2 li:before,
+body.skin_green .wpb_content_element ul.style_3 li:before,
+body.skin_green ul.style_3 li:before,
+body.skin_green .wpb_content_element ul.style_4 li:before,
+body.skin_green ul.style_4 li:before,
+body.skin_green .wpb_content_element ul.style_5 li:before,
+body.skin_green ul.style_5 li:before,
+body.skin_green .pricing-table_content ul li:before,
+body.skin_green .project_grid_filter ul li a:hover,
+body.skin_green.header_style_2 .header_socials a:hover,
+body.skin_green.header_style_2 .breadcrumbs .current,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li > a:hover,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li > a:hover,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.current-menu-item > a,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.current-menu-item > a,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.current-menu-parent > a,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.current-menu-parent > a,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li ul li:hover > a,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li ul li.current-menu-item > a,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li ul li:hover > a,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li ul li.current-menu-item > a,
+body.skin_green.header_style_dark .top_nav .top_nav_wrapper > ul > li > a:hover,
+body.skin_green.header_style_dark .top_nav .main_menu_nav > ul > li > a:hover,
+body.skin_green.header_style_dark .top_nav .top_nav_wrapper > ul > li.current-menu-item > a,
+body.skin_green.header_style_dark .top_nav .main_menu_nav > ul > li.current-menu-item > a,
+body.skin_green.header_style_dark .top_nav .top_nav_wrapper > ul > li.current-menu-parent > a,
+body.skin_green.header_style_dark .top_nav .main_menu_nav > ul > li.current-menu-parent > a,
+body.skin_green.header_style_white .top_nav .top_nav_wrapper > ul > li > a:hover,
+body.skin_green.header_style_white .top_nav .main_menu_nav > ul > li > a:hover,
+body.skin_green.header_style_white .top_nav .top_nav_wrapper > ul > li.current-menu-item > a,
+body.skin_green.header_style_white .top_nav .main_menu_nav > ul > li.current-menu-item > a,
+body.skin_green.header_style_white .top_nav .top_nav_wrapper > ul > li.current-menu-parent > a,
+body.skin_green.header_style_white .top_nav .main_menu_nav > ul > li.current-menu-parent > a,
+body.skin_green.header_style_dark .top_nav .top_nav_wrapper > ul > li ul li:hover > a,
+body.skin_green.header_style_dark .top_nav .top_nav_wrapper > ul > li ul li.current-menu-item > a,
+body.skin_green.header_style_dark .top_nav .main_menu_nav > ul > li ul li:hover > a,
+body.skin_green.header_style_dark .top_nav .main_menu_nav > ul > li ul li.current-menu-item > a,
+body.skin_green.header_style_white .top_nav .top_nav_wrapper > ul > li ul li:hover > a,
+body.skin_green.header_style_white .top_nav .top_nav_wrapper > ul > li ul li.current-menu-item > a,
+body.skin_green.header_style_white .top_nav .main_menu_nav > ul > li ul li:hover > a,
+body.skin_green.header_style_white .top_nav .main_menu_nav > ul > li ul li.current-menu-item > a,
+body.skin_green .top_bar .top_bar_socials a:hover,
+body.skin_green.header_style_transparent .breadcrumbs .current,
+body.skin_green .button.bordered:hover,
+body.skin_green .top_bar .top_bar_info li .fa
+{
+    color: #34ef5c;
+}
+
+body.skin_green .project_grid_switcher:hover{
+    color: #34ef5c !important;
+}
+
+body.skin_green blockquote,
+body.skin_green .widget_services li.active:before,
+body.skin_green .widget_pages.vc_widgets li:before,
+body.skin_green .widget_categories li:before,
+body.skin_green .wpb_content_element .widget_categories li:before,
+body.skin_green .wpb_video_widget .wpb_wrapper .wpb_video_wrapper .play_video:hover:after,
+body.skin_green.woocommerce .myaccount_user
+{
+    border-left-color: #34ef5c;
+}
+
+body.skin_green .icon_button i,
+body.skin_green .company_history_header .year,
+body.skin_green #frontend_customizer_button:before{
+    border-right-color: #34ef5c;
+}
+
+body.skin_green .wpb_accordion .wpb_accordion_wrapper .ui-state-default:hover .ui-icon,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.menu-item-has-children > a:hover:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.menu-item-has-children > a:hover:after,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.page_item_has_children > a:hover:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.page_item_has_children > a:hover:after,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.menu-item-has-children.current-menu-item > a:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.menu-item-has-children.current-menu-item > a:after,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.page_item_has_children.current_page_item > a:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.page_item_has_children.current_page_item > a:after,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.menu-item-has-children.current-menu-parent > a:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.menu-item-has-children.current-menu-parent > a:after,
+body.skin_green.header_style_transparent .top_nav .top_nav_wrapper > ul > li.page_item_has_children.current-menu-parent > a:after,
+body.skin_green.header_style_transparent .top_nav .main_menu_nav > ul > li.page_item_has_children.current-menu-parent > a:after{
+    border-top-color: #34ef5c;
+}
+
+body.skin_green.woocommerce ul.cart_list li:last-child{
+    border-bottom-color: #34ef5c;
+}
+
+body.skin_green .project_info.style_2,
+body.skin_green .widget_pages.vc_widgets,
+body.skin_green .icon_button a:hover,
+body.skin_green .icon_button.skype a,
+body.skin_green .project_grid_switcher:hover,
+body.skin_green .our_partners > ul > li:hover .logo,
+body.skin_green .stm_staff_2 .staff_socials li a:hover,
+body.skin_green .page-numbers .page-numbers:hover,
+body.skin_green .page-numbers .page-numbers.current,
+body.skin_green .page-links > span,
+body.skin_green .page-links > a:hover,
+body.skin_green .widget_tag_cloud .tagcloud a:hover,
+body.skin_green .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,
+body.skin_green .wpb_video_widget .wpb_wrapper .wpb_video_wrapper .play_video:hover,
+body.skin_green.woocommerce div.product .product_meta .tagged_as a:hover,
+body.skin_green .button.button-outline:active,
+body.skin_green .button.button-outline:focus,
+body.skin_green .button.button-outline:hover,
+body.skin_green .woocommerce.widget_product_tag_cloud .tagcloud a:hover,
+body.skin_green .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:hover,
+body.skin_green .vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:focus,
+body.skin_green .wpb_content_element .dropcarps_bordered:first-letter,
+body.skin_green .button.bordered:hover
+{
+    border-color: #34ef5c;
+}
+
+body.skin_green .slick_prev:hover,
+body.skin_green .slick_next:hover,
+body.skin_green .tp-leftarrow.default:hover,
+body.skin_green .tp-rightarrow.default:hover,
+body.skin_green .ls-construct .ls-nav-prev:hover,
+body.skin_green .ls-construct .ls-nav-next:hover
+{
+    border-color: #34ef5c !important;
+}
+
+body.skin_green .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a{
+    color: #fff;
+}
+
+body.skin_green .button.button-outline{
+    border: 2px solid #cdcdcd;
+    background-color: transparent;
+    color: #cdcdcd;
+}
+
+body.skin_green .button.button-outline:active,
+body.skin_green .button.button-outline:focus,
+body.skin_green .button.button-outline:hover{
+    color: #ffffff;
+}
+
+body.skin_green ul.products .star-rating span,
+body.skin_green.woocommerce .product_list_widget li .star-rating span,
+body.skin_green .woocommerce-product-rating .star-rating span
+{
+    background-image: url("../images/star_enabled_green.png");
+}
+
+body.skin_green .button:hover,
+body.skin_green .button:active,
+body.skin_green .button:focus,
+body.skin_green .form-submit .submit:hover,
+body.skin_green .form-submit .submit:active,
+body.skin_green .form-submit .submit:focus{
+    background: #777;
+    color: #fff;
+}
+
+body.skin_green .button_3d.white span{
+    background: #fff;
+}
+
+body.skin_green .breadcrumbs a:hover{
+    color: #333;
+}
+
+body.skin_green .icon_button.skype a:hover{
+    background: #12A5F4;
+    border-color: #12A5F4;
+    color: #fff;
+}
+
+body.skin_green .icon_button.skype a:hover i,
+body.skin_green .icon_button.skype a i,
+body.skin_green .icon_button a:hover i{
+    border-color: #fff;
+}
+
+body.skin_green .icon_button a:hover,
+body.skin_green .stm_post_tags a:hover,
+body.skin_green .project_grid_filter ul li.active a:hover{
+    color: #fff;
+}
+
+body.skin_green .vacancy_table th.headerSortDown:after,
+body.skin_green .vacancy_table th.headerSortUp:after,
+body.skin_green .vacancy_table th.headerSortDown:hover:after,
+body.skin_green .vacancy_table th.headerSortUp:hover:after{
+    color: #fff;
+}
+
+body.skin_green.header_style_2 .entry-header{
+    background: none;
+}
+
+body.skin_green.header_style_transparent .entry-header{
+    background: none;
+}
+
+body.skin_green .button.white{
+    background: #fff;
+}
+
+body.skin_green .button.white.bordered{
+    background: none;
+}
+
+body.skin_green .button.dark{
+    background: #333;
+}
+
+body.skin_green .top_bar_info_switcher li a:hover{
+    color: #fff;
+}

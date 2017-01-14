@@ -123,6 +123,22 @@
 									<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo( 'name' ); ?></a>
 								<?php } ?>
 							</div>
+							<div class="widget_headers">									
+								<?php if(is_active_sidebar('header-widget-1')):?>									
+								<div class="widget_headers_item col-md-4">									
+									<?php dynamic_sidebar('header-widget-1'); ?>									
+								</div>								<?php endif; ?>																	
+								<?php if(is_active_sidebar('header-widget-2')):?>									
+									<div class="widget_headers_item col-md-4">
+										<?php dynamic_sidebar('header-widget-2'); ?>
+									</div>
+									<?php endif; ?>
+									<?php if(is_active_sidebar('header-widget-3')):?>
+									<div class="widget_headers_item col-md-4">
+										<?php dynamic_sidebar('header-widget-3'); ?>
+									</div>								
+									<?php endif; ?>							
+							</div>
 							<?php if( $header_address = stm_option( 'header_address' ) ){ ?>
 								<div class="icon_text clearfix">
 									<div class="icon"><i class="fa <?php echo stm_option( 'header_address_icon' ); ?>"></i></div>
@@ -217,6 +233,23 @@
 						<div id="menu_toggle">
 							<button></button>
 						</div>
+						
+						<div class="widget_headers">									
+								<?php if(is_active_sidebar('header-widget-1')):?>									
+								<div class="widget_headers_item col-md-4">									
+									<?php dynamic_sidebar('header-widget-1'); ?>									
+								</div>								<?php endif; ?>																	
+								<?php if(is_active_sidebar('header-widget-2')):?>									
+									<div class="widget_headers_item col-md-4">
+										<?php dynamic_sidebar('header-widget-2'); ?>
+									</div>
+									<?php endif; ?>
+									<?php if(is_active_sidebar('header-widget-3')):?>
+									<div class="widget_headers_item col-md-4">
+										<?php dynamic_sidebar('header-widget-3'); ?>
+									</div>								
+									<?php endif; ?>							
+							</div>
 					</div>
 					<div class="header_info">
 						<div class="top_nav_mobile">

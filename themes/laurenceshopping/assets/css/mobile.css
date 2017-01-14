@@ -12,9 +12,6 @@
         display: none;
     }
 
-    .header_socials{
-        margin: 0 0 0 40px;
-    }
 
     #wrapper{
         padding-bottom: 0 !important;
@@ -46,11 +43,8 @@
 
 }
 
-@media only screen and (max-width: 960px) {
-    .header_socials{
-        margin: 0 0 0 10px;
-    }
 
+@media only screen and (max-width: 960px) {
     .top_nav .icon_text{
         display: none;
     }

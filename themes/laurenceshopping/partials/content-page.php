@@ -23,7 +23,7 @@
             'link_before' => '<span>',
             'link_after'  => '</span>',
             'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'bestbuild' ) . ' </span>%',
-            'separator'   => '<span class="screen-reader-text">, </span>',
+            'separator'   => '<span class="screen-reader-text">,</span>',
         ) );
         ?>
     </div>

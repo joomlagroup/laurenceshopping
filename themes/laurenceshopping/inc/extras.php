@@ -4,7 +4,7 @@ if( ! function_exists( 'stm_breadcrumbs' ) ){
 	function stm_breadcrumbs( $showCurrent = true ) {
 
 		$showOnHome = 0;
-		$delimiter = '<span class="separator">/</span>';
+		$delimiter = '<span class="separator">\</span>';
 		$home = __( 'Home', 'bestbuild' );
 		$before = '<span class="current">';
 		$after = '</span>';

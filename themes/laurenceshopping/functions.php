@@ -56,7 +56,39 @@ if ( ! function_exists( 'stm_theme_setup' ) ) {
 				'after_title'   => '</h4></div>',
 			)
 		);
-
+		register_sidebar(
+			array(
+				'name'          => __( 'Header Widget 1', 'bestbuild' ),
+				'id'            => 'header-widget-1',
+				'description'   => '',
+				'before_widget' => '<aside id="%1$s" class="widget %2$s footer_widgets">',
+				'after_widget'  => '</aside>',
+				'before_title'  => '<div class="widget_title"><h4>',
+				'after_title'   => '</h4></div>',
+			)
+		);
+		register_sidebar(
+			array(
+				'name'          => __( 'Header Widget 2', 'bestbuild' ),
+				'id'            => 'header-widget-2',
+				'description'   => '',
+				'before_widget' => '<aside id="%1$s" class="widget %2$s footer_widgets">',
+				'after_widget'  => '</aside>',
+				'before_title'  => '<div class="widget_title"><h4>',
+				'after_title'   => '</h4></div>',
+			)
+		);
+		register_sidebar(
+			array(
+				'name'          => __( 'Header Widget 3', 'bestbuild' ),
+				'id'            => 'header-widget-3',
+				'description'   => '',
+				'before_widget' => '<aside id="%1$s" class="widget %2$s footer_widgets">',
+				'after_widget'  => '</aside>',
+				'before_title'  => '<div class="widget_title"><h4>',
+				'after_title'   => '</h4></div>',
+			)
+		);		
 		register_sidebar(
 			array(
 				'name'          => __( 'Footer', 'bestbuild' ),
@@ -192,3 +224,6 @@ require_once( $inc_path . '/widgets/contacts.php' );
 require_once( $inc_path . '/widgets/instagram.php' );
 require_once( $inc_path . '/widgets/services.php' );
 require_once( $inc_path . '/widgets/pages.php' );
+
+
+
